@@ -342,7 +342,9 @@ textarea:hover {
 
 .nav > li a:hover,
 .nav > li a:focus {
-  background: transparent;
+  background-color: #f3976c;
+  color: white !important;
+  border-radius: 40px;
 }
 
 .navbar-toggle {
