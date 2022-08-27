@@ -20,6 +20,12 @@ a:hover {
   cursor: pointer;
 }
 
+input:hover,
+select:hover,
+textarea:hover {
+  cursor: pointer;
+}
+
 #page-loading-blocs-notifaction {
   position: fixed;
   top: 0;
@@ -787,7 +793,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #ef7841;
 }
 
 .tc-white {
@@ -795,7 +801,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #c14f1c;
   color: #ffffff !important;
 }
 
