@@ -457,6 +457,14 @@ label {
   margin-bottom: 10px;
 }
 
+.col-xs-12 {
+  padding-left: 0px;
+  padding-right: 0px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
 .btn {
   margin: 0 5px 5px 0;
 }
@@ -697,6 +705,10 @@ p {
   font-size: 18px;
 }
 
+figcaption {
+  color: #0c1414;
+}
+
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
@@ -722,7 +734,7 @@ p {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 18px;
   line-height: 1.4em;
 }
 
@@ -753,8 +765,8 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
-  background-color: #f05e1a;
+  color: #4d4242 !important;
+  background-color: #e8e8e8;
 }
 
 .portfolio-thumb {
