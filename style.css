@@ -99,7 +99,7 @@ textarea:hover {
 }
 
 .texture-paper::before {
-  background: url('img/texture-paper.png');
+  background: url('img/texture-paper.webp');
   background-size: 280px 280px;
 }
 
@@ -536,6 +536,9 @@ select {
   padding: 10px;
   border-radius: 4px;
   border: 1px solid;
+  color: #4a4848;
+  background-color: #ffffff;
+  font-size: 14px;
 }
 
 .scrollToTop {
@@ -839,11 +842,11 @@ h4 {
 }
 
 .bg-dots-bg {
-  background-image: url('img/dots-bg.png');
+  background-image: url('img/dots-bg.webp');
 }
 
 .bg-lines-h2-bg {
-  background-image: url('img/lines-h2-bg.png');
+  background-image: url('img/lines-h2-bg.webp');
 }
 
 .bg-banniere {
